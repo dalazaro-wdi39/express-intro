@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalazaro/express-intro.git"
+  },
+  "author": "DL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalazaro/express-intro/issues"
+  },
+  "homepage": "https://github.com/dalazaro/express-intro#readme",
+  "keywords": [
+    "intro",
+    "to",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
